@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Run this app with `python app_basic_01.py` and
+# Run this app with `python app_01_basic.py` and
 # visit http://127.0.0.1:8050/ in your web browser.
 
 import dash

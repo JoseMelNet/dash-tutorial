@@ -130,3 +130,9 @@ dmypy.json
 
 # IDE Pycharm
 .idea/
+
+# Heroku Dash Deploy
+venv
+*.pyc
+.DS_Store
+.env
